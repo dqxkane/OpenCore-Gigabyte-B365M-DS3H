@@ -10,3 +10,5 @@
 6. WIFI/Bluetooth, use BCM943602CS + PCIE card
 
 Everything seems to work OK so far.
+
+Tested on Catalina 10.15.7 to BigSur 11.1.
